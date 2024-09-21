@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "buildCommand": [{ "src": "./app.js", "use":
+    "build": [{ "src": "./app.js", "use":
     "@vercel/node"}],
     "routes": [{ "src": "./app.js", "dest": "/" }]
 }
